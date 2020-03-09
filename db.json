@@ -1,8 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "streams": [
+    { "id": 1, "urlKey": "YzLWDdi3Xns" },
+    { "id": 2, "urlKey": "EkGq7EbOh4s" },
+    { "id": 3, "urlKey": "UmPc0niq_sE" },
+    { "id": 4, "urlKey": "mTH3Tcn49WA" },
+    { "id": 4, "urlKey": "XU6woZ3XZaQ" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
